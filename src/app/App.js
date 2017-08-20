@@ -17,7 +17,7 @@ class App extends Component {
 class Header extends React.Component {
    render() {
       return (
-         <div>
+         <div className="Header-div">
             <h1>AGILE BHODHI</h1>
          </div>
       );

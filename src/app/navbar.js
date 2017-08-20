@@ -29,8 +29,8 @@ export default class NavBar extends Component {
 			        </NavDropdown>
 			      </Nav>
 			      <Nav pullRight>
-			        <NavItem eventKey={1} href="/">Help</NavItem>
-			        <NavItem eventKey={2} href="/">Contact us</NavItem>
+			      	<NavItem eventKey={1} href="/">Contact us</NavItem>
+			        <NavItem eventKey={2} href="/">Help</NavItem>
 			      </Nav>
 			    </Navbar.Collapse>
 			  </Navbar>
